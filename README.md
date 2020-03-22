@@ -1,4 +1,4 @@
-# Instagram app with VueJs
+# Instagram app with VueJs <img src="https://github.com/Flordelola/instagram-vue/blob/master/src/assets/logo.png" width="30" height="auto" /> 
 
 Since we are stuck at home due to the COVID19 regulations, why not use my time to code and use VueJs to do my first app, and why not an IG app?
 
